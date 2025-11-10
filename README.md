@@ -1,4 +1,4 @@
-<img width="147" height="157" alt="image" src="https://github.com/user-attachments/assets/ad6b13b2-3919-4be8-bd9d-93d65a1cc7b3" /># SaiKumar-Portfolio
+# SaiKumar-Portfolio
 # 👋 Hi, I'm Kuraparthi Sai Kumar  
 
 🎓 **MCA Student (Aurora PG College, 2023–2025)**  
