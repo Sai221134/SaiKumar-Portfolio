@@ -62,7 +62,8 @@ I enjoy transforming data into actionable insights and building full-stack or an
 📧 [saikumarkuraparthi2@gmail.com](mailto:saikumarkuraparthi2@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kuraparthi-sai-kumar)  
 💻 [GitHub](https://github.com/Sai221134)
-**[portfolio- file:///C:/Users/HP/Downloads/Sai%20port.html]**
+
+[portfolio- file:///C:/Users/HP/Downloads/Sai%20port.html]
 ---
 
 ⭐ *“Turning data into meaningful insights, one project at a time.”*
