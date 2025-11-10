@@ -47,7 +47,7 @@ I enjoy transforming data into actionable insights and building full-stack or an
 - Achieved model accuracy improvement from 62% → 75%  
 - Created advanced visualizations for performance metrics  
 
-📂 [Project Documentation](./projects/Stock_Price_Prediction.md)
+📂 [Project Documentation](./https://drive.google.com/file/d/1Y6a3HJW-qn6_oQ4p8R7I1qqpjhXZTRxe/view?usp=drive_link)
 
 ---
 
